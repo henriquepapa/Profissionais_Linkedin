@@ -8,6 +8,6 @@ resolver==0.2.1
 selector==0.10.1
 selenium==3.141.0
 six==1.14.0
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.13
 w3lib==1.21.0
