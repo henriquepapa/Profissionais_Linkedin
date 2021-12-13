@@ -2,7 +2,7 @@ appdirs==1.4.3
 cssselect==1.1.0
 distlib==0.3.0
 filelock==3.0.12
-lxml==4.5.0
+lxml==4.6.5
 parsel==1.5.2
 resolver==0.2.1
 selector==0.10.1
